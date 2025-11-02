@@ -263,5 +263,5 @@ Educational project for The Architect's Playbook YouTube series.
 
 **Built with:** LangGraph, LangChain, OpenAI GPT-4o
 
-**Author:** [Your Name]  
-**YouTube:** [Your Channel]
+**Author:** Atef Ataya
+**YouTube:** [[Your Channel]](https://www.youtube.com/@atefataya/videos)
